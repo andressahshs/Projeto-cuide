@@ -1,0 +1,18 @@
+.banner {
+    display: flex;
+    background-color: hsl(0, 0%, 99%);
+    align-items: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size :50px;
+    
+    
+}
+    
+.banner img {
+    max-width: 100%;
+    margin-right: 5%;
+    margin: 80px;
+    vertical-align:baseline;
+    margin-left: 25%;
+}
+
